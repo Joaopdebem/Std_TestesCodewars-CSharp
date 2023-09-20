@@ -1,0 +1,5 @@
+C:\Developtment\Desafios\TestesCodeWars\obj\Debug\net7.0\TestesCodeWars.csproj.AssemblyReference.cache
+C:\Developtment\Desafios\TestesCodeWars\obj\Debug\net7.0\TestesCodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developtment\Desafios\TestesCodeWars\obj\Debug\net7.0\TestesCodeWars.AssemblyInfoInputs.cache
+C:\Developtment\Desafios\TestesCodeWars\obj\Debug\net7.0\TestesCodeWars.AssemblyInfo.cs
+C:\Developtment\Desafios\TestesCodeWars\obj\Debug\net7.0\TestesCodeWars.csproj.CoreCompileInputs.cache
